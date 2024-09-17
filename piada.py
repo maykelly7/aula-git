@@ -1,0 +1,1 @@
+print("A foca nadou ate antardida")

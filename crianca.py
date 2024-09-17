@@ -1,0 +1,1 @@
+print("Uma vez a criança chorou por falta da mãe e do papai")
